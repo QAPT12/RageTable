@@ -12,4 +12,4 @@ if __name__ == '__main__':
             case '1':
                 rageTable.roll_rage()
             case _:
-                print('wrong button idiot')
+                print('wrong input')
